@@ -45,7 +45,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/OxyNotOp/OxyStream"
+                        "Owner", url="https://t.me/FallenAngel_xD"
                     )
                 ],
             ]
